@@ -1,14 +1,14 @@
-layout_spectrum: 0.127722141565755
-typography_spectrum: 0.8388366184663028
+layout_spectrum: 0.7244244934991002
+typography_spectrum: 0.40111465100198984
 color:
-  brandStrength: 0.985176972579211
-  lightness: 0.8180394754745066
-  saturation: 0.5131320436485112
-  rhythmicContrast: 0.82478964375332
+  brandStrength: 0.17272909684106708
+  lightness: 0.14798596524633467
+  saturation: 0.12217674124985933
+  rhythmicContrast: 0.619153538485989
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#1A1F2B'
+    - '#30395C'
+    - '#4A6491'
+    - '#85A5CC'
+    - '#D0E4F2'
 name: Figure8z.com
